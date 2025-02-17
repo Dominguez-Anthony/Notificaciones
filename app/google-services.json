@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "443787225117",
+    "project_id": "noti2702",
+    "storage_bucket": "noti2702.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:443787225117:android:4849888cca82a2bc48fef4",
+        "android_client_info": {
+          "package_name": "com.example.noti1702"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBgFbQCbK44of7gps-zIcsdjIUiuZwXZ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
